@@ -8,4 +8,4 @@ spec:
   interval: 10s
   ref:
     branch: 3-demo
-  url: ssh://git@github.com/fenigma/bb-app-source
+  url: https://github.com/Fenigma/bb-app-source
